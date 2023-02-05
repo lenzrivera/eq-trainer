@@ -1,0 +1,12 @@
+{
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel serve -p 8080"
+  },
+  "dependencies": {
+    "tone": "^14.7.77"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
